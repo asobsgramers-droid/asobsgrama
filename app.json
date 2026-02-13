@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "80f6295d-7155-41fb-bfc9-c30f7fc708b8"
+      }
+    },
+    "android": {
+      "package": "com.asobsgram.dev.asobsgramconnecteasily"
+    }
+  }
+}
